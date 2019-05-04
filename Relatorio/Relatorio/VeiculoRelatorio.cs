@@ -10,7 +10,6 @@ namespace Relatorio
     {
         private string modelo;
         private string marca;
-        private string cor;
         private string combustivel;
         private int ano;
         private double precoVeiculo;
@@ -35,11 +34,6 @@ namespace Relatorio
         {
             get { return combustivel; }
             set { combustivel = value; }
-        }
-        public string Cor
-        {
-            get { return cor; }
-            set { cor = value; }
         }
         public string Marca
         {

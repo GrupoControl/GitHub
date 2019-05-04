@@ -64,7 +64,7 @@
             // comboBox7
             // 
             this.comboBox7.FormattingEnabled = true;
-            this.comboBox7.Location = new System.Drawing.Point(9, 429);
+            this.comboBox7.Location = new System.Drawing.Point(9, 420);
             this.comboBox7.Name = "comboBox7";
             this.comboBox7.Size = new System.Drawing.Size(229, 21);
             this.comboBox7.TabIndex = 57;
@@ -137,7 +137,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(5, 400);
+            this.label9.Location = new System.Drawing.Point(5, 391);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(149, 21);
             this.label9.TabIndex = 47;
@@ -260,7 +260,7 @@
             // comboBox4
             // 
             this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(9, 359);
+            this.comboBox4.Location = new System.Drawing.Point(9, 350);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(229, 21);
             this.comboBox4.TabIndex = 59;
@@ -269,7 +269,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(5, 335);
+            this.label5.Location = new System.Drawing.Point(5, 326);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(131, 21);
             this.label5.TabIndex = 58;
@@ -278,7 +278,7 @@
             // comboBox8
             // 
             this.comboBox8.FormattingEnabled = true;
-            this.comboBox8.Location = new System.Drawing.Point(9, 492);
+            this.comboBox8.Location = new System.Drawing.Point(9, 483);
             this.comboBox8.Name = "comboBox8";
             this.comboBox8.Size = new System.Drawing.Size(229, 21);
             this.comboBox8.TabIndex = 61;
@@ -287,7 +287,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(8, 468);
+            this.label10.Location = new System.Drawing.Point(8, 459);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(147, 21);
             this.label10.TabIndex = 60;
