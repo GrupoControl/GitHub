@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace Relatorio
 {
-    public partial class FormPrincipal : Form
+    public partial class frmPrincipal : Form
     {
-        public FormPrincipal()
+        public frmPrincipal()
         {
             InitializeComponent();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            DateTime dataHora = DateTime.Now;
+            lblData.Text = $"Data: {dataHora.ToShortDateString()} Hora: {dataHora}"; 
         }
     }
 }
