@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarroRelatorio.cs" />
     <Compile Include="FormCadastroCarro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,9 +65,13 @@
     <Compile Include="FormPrincipal.Designer.cs">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="MotoRelatorio.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VeiculoRelatorio.cs" />
+    <EmbeddedResource Include="FormCadastroCarro.resx">
+      <DependentUpon>FormCadastroCarro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
